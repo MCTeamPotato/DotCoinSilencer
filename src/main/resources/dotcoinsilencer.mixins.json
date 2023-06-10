@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.teampotato.dotcoinsilencer.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "dotcoinsilencer.refmap.json",
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixins": [
+    "MixinBasicCoin"
+  ]
+}

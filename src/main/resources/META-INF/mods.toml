@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="LGPL-v3"
+
+[[mods]]
+modId="dotcoinsilencer"
+version="${file.jarVersion}"
+displayName="DotCoinSilencer"
+authors="Team Potato"
+description='''
+
+'''
